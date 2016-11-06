@@ -1,0 +1,10 @@
+F:\hoc\powershell\PowerShellWinform\PowerShellWinform\bin\Debug\PowerShellWinform.exe.config
+F:\hoc\powershell\PowerShellWinform\PowerShellWinform\bin\Debug\PowerShellWinform.exe
+F:\hoc\powershell\PowerShellWinform\PowerShellWinform\bin\Debug\PowerShellWinform.pdb
+F:\hoc\powershell\PowerShellWinform\PowerShellWinform\obj\Debug\PowerShellWinform.csprojResolveAssemblyReference.cache
+F:\hoc\powershell\PowerShellWinform\PowerShellWinform\obj\Debug\PowerShellWinform.Properties.Resources.resources
+F:\hoc\powershell\PowerShellWinform\PowerShellWinform\obj\Debug\PowerShellWinform.csproj.GenerateResource.Cache
+F:\hoc\powershell\PowerShellWinform\PowerShellWinform\obj\Debug\PowerShellWinform.exe
+F:\hoc\powershell\PowerShellWinform\PowerShellWinform\obj\Debug\PowerShellWinform.pdb
+F:\hoc\powershell\PowerShellWinform\PowerShellWinform\obj\Debug\PowerShellWinform.FormShowService.resources
+F:\hoc\powershell\PowerShellWinform\PowerShellWinform\bin\Debug\System.Management.Automation.dll
